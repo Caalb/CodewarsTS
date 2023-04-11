@@ -1,4 +1,4 @@
-const solution = (num) => {
+const solution = (num: number) => {
   if(num <= 2) {
     return 0;
   }
